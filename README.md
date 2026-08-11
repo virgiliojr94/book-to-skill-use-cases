@@ -10,14 +10,16 @@ Each entry is one line here and a Gist on the author's own account. This reposit
 
 ## What belongs here
 
-A use case is **evidence of use, with measurements**. Yours qualifies if you can state:
+A use case is **evidence of use**. Bring one of these two — both if you have them:
 
-- the document — format, page count, and whether you had the right to read it
-- the command you ran, including `--mode`
-- what the extractor reported: tokens, chapters detected, ToC found or not
-- what the skill is good for in practice — and where it fell short
+- **The numbers from the run.** The document (format, pages), the command including `--mode`, and what the extractor reported: tokens, chapters detected, ToC found or not.
+- **What came of it.** What the skill was used to produce or decide, and at what scale — a survey that reached 300 people, a manual that stopped being re-read, a decision that changed.
 
-The last part matters as much as the rest. An account where nothing went wrong is an advertisement, not a use case.
+And, always, **where it fell short**. That part is not optional. An account where nothing went wrong is an advertisement, and reads like one.
+
+Say whether you had the right to read the document — bought copy, company material, open licence, public domain.
+
+Write in whatever language you think in. The index line follows your Gist's language.
 
 ## What does not
 
@@ -36,13 +38,14 @@ This is not the place to get your project linked from book-to-skill — that is 
 ### Line format
 
 ```markdown
-- [Short title, what you converted and why](gist-url) — FORMAT, Np, MODE, ~NK tokens — by [@you](https://github.com/you)
+- [Short title, what you converted and why](gist-url) — <the evidence, short> — by [@you](https://github.com/you)
 ```
 
-Example:
+The middle field is whichever evidence your account carries — the run's numbers, or what came of it:
 
 ```markdown
-- [Turned a 312-page regulatory manual into a lookup skill](https://gist.github.com/...) — PDF, 312p, technical, ~240K tokens — by [@someone](https://github.com/someone)
+- [Turned a 312-page regulatory manual into a lookup skill](gist) — PDF, 312p, technical, ~240K tokens — by [@someone](https://github.com/someone)
+- [A DevEx book became a skill, then a survey of 300+ engineers](gist) — EPUB → survey applied to 300+ developers — by [@someone](https://github.com/someone)
 ```
 
 Keep it to one line. If the title needs a second sentence, that sentence belongs in the Gist.

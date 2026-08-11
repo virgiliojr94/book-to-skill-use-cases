@@ -2,6 +2,8 @@
 
 Copy this into a public Gist on your own account, fill it in, delete the notes in parentheses. Nothing here asks for the skill's content — keep it out.
 
+Sections you cannot fill are better left out with a line saying so than filled with guesses. "I did not keep the extraction metadata" is a real answer; an invented token count is not. The two sections that carry the account are **what came of it** and **where it fell short** — if you have those, send it.
+
 ---
 
 ## What I converted
@@ -36,6 +38,10 @@ python3 scripts/extract.py <...>
 ## What the skill is good for
 
 (In practice, weeks later: what do you ask it? What does it answer well?)
+
+## What came of it
+
+(Optional if you filled in the numbers above, essential if you did not: what did the skill help you produce or decide, and at what scale? A survey, a document, a decision, a process that changed.)
 
 ## Where it fell short
 

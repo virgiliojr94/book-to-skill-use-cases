@@ -4,6 +4,6 @@ Documents converted to do a job — internal handbooks, regulations, standards, 
 
 See the [submission rules](README.md#how-to-submit). One line per entry, newest at the bottom.
 
-<!-- - [Title, what you converted and why](gist-url) — FORMAT, Np, MODE, ~NK tokens — by [@you](https://github.com/you) -->
+<!-- - [Title, what you converted and why](gist-url) — <evidence> — by [@you](https://github.com/you) -->
 
-_No entries yet. Be the first._
+- [Um livro sobre DevEx virou skill, a skill virou uma survey, e a survey mostrou onde 300 devs perdem produtividade](https://gist.github.com/virgiliojr94/9191453aa5cf692a9b3226d837454cde) — livro → skill → survey aplicada a 300+ desenvolvedores — by Pepeu (Anima Educação)
